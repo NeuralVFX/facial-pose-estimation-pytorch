@@ -12,7 +12,7 @@ Training a neural net in Pytorch to generate 3d facial pose estimation from only
 ## Face Mesh
 ![](examples/iphone_face_small.jpg)
 ## Inference Pipeline Example
-![](examples/pipeline.png)
+![](examples/pipline.png)
 ## Generator Data-Pair Examples
 ![](examples/git_dataset.png)
 
