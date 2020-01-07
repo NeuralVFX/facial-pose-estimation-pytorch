@@ -4,7 +4,7 @@ Training a neural net in Pytorch to generate 3d facial pose estimation from only
 
 ## Notes
 - Main code is in [Jupyter Notebook](face_pose_net.ipynb)
-- Dataset is generated on the fly using OpenCV
+- Training data is artificially generated on the fly using OpenCV
 - Output is 51  blend-shapes float values which can be applied to a face mesh
 - This only outputs blend-shape values, head transform is handled by a seperate part of the pipeline
 - Using transfer learning with a pretrained Resnet34
@@ -12,7 +12,7 @@ Training a neural net in Pytorch to generate 3d facial pose estimation from only
 
 ## Inference Pipeline Example
 ![](examples/pipeline.png)
-## Generator Data-Pair Examples
+## Artificial Data-Pair Examples
 ![](examples/git_dataset.png)
 
 ## Code Usage
