@@ -9,7 +9,6 @@ Training a neural net in Pytorch to generate 3d facial pose estimation from only
 - This only outputs blend-shape values, head transform is handled by a seperate part of the pipeline
 - Using transfer learning with a pretrained Resnet34
 
-
 ## Inference Pipeline Example
 ![](examples/pipeline.png)
 ## Generator Data-Pair Examples
