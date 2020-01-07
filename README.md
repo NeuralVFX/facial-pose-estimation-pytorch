@@ -9,15 +9,10 @@ Training a neural net in Pytorch to generate 3d facial pose estimation from only
 - Using transfer learning with a pretrained Resnet34
 - Training this at 96x96 in order to keep running quick enough for realtime use, quality improves at higher res
 
-## Face Mesh
-![](examples/iphone_face_small.jpg)
 ## Inference Pipeline Example
-![](examples/pipline.png)
+![](examples/pipeline.png)
 ## Generator Data-Pair Examples
 ![](examples/git_dataset.png)
-
-
-
 
 ## Code Usage
 Usage instructions found here: [user manual page](USAGE.md).
