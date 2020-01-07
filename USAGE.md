@@ -17,10 +17,7 @@ git clone https://github.com/NeuralVFX/face-pose-estimation-pytorch.git
 - Take the optimized `ONNX` file from the `/output/`directory
 - Load this model in OpenCVs DNN Module
 
-## Face Model
-- `data/face_model.mb` The maya file including the face model, and blendshapes in included at 
-
-## Included Data Usage
+## Included Face Data Usage
 
 
 | **Filename**         | **Purpose**                                                        |  **Usage**             |
