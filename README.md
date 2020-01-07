@@ -1,5 +1,5 @@
 ![](examples/track_d.gif)
-# Face-Pose-Estimation-Pytorch
+# Facial-Pose-Estimation-Pytorch
 Training a Neural Net in Pytorch to generate 3d facial pose estimation from only facial landmarks.
 
 ## Notes
