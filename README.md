@@ -10,9 +10,9 @@ Training a neural net in Pytorch to generate 3d facial pose estimation from only
 - Training this at 96x96 in order to keep running quick enough for realtime use, quality improves at higher res
 
 ## Face Mesh
-![](examples/iphone_face.jpg)
+![](examples/iphone_face_small.jpg)
 ## Example Training Data
-![](examplesgit_dataset.png)
+![](examples/git_dataset.png)
 
 
 ## Code Usage
