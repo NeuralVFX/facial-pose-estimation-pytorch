@@ -3,7 +3,7 @@
 Training a neural net in Pytorch to generate 3d facial pose estimation from only facial landmarks.
 
 ## Notes
-- Main code is in [Jupyter Notebook](face_pose_net.ipnb)
+- Main code is in [Jupyter Notebook](face_pose_net.ipynb)
 - Dataset is generated on the fly using OpenCV
 - Output is 51 float values representing blend-shapes for a facial mesh
 - Using transfer learning with a pretrained Resnet34
