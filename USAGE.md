@@ -24,5 +24,5 @@ git clone https://github.com/NeuralVFX/face-pose-estimation-pytorch.git
 |------------------------------|--------------------------------------------------------------------|-------------------------|
 | `data/face_model.mb`    |  Maya file of face, including blendshapes |    Open in Maya 2018 or later            |
 | `data/bs_points_a.json`   | Face model points, and blendshape points exported  |   Loaded with JSON in `util/loaders.py`        |
-| `data/maya_scripts.py`      |  Exports data from Maya file to JSON file      |   Open `face_model.mb` and execute in script editor                   |
+| `data/maya_scripts.py`      |  Script to export data from Maya file to JSON file      |   Open `face_model.mb` and execute in script editor                   |
 
