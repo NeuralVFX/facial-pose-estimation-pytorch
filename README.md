@@ -8,6 +8,8 @@ Training a Neural Net in Pytorch to generate 3d facial pose estimation from only
 - Output is 51 blend-shape float values which can be applied to a face mesh
 - This only outputs blend-shape values, head transform is handled by a separate part of the pipeline
 
+## Training Pipeline Example
+![](examples/pytorch_training_pipeline.png)
 ## Inference Pipeline Example
 ![](examples/pipeline.png)
 ## Artificial Data-Pair Examples
