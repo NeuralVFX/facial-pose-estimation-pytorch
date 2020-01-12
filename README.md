@@ -1,4 +1,4 @@
-![](examples/track_d.gif)
+![](https://github.com/NeuralVFX/facial-pose-estimation-unity/blob/master/examples/example_celeb_a.gif)
 # Facial-Pose-Estimation-Pytorch
 Training a Neural Net in Pytorch to generate 3d facial pose estimation from only facial landmarks.
 
