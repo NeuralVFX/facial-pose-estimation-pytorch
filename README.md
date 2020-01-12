@@ -22,7 +22,7 @@ This blog post describes the whole project: [AR Facial Pose Estimation](http://n
 ## Inference Pipeline Example
 ![](examples/pipeline.png)
 ## Artificial Data-Pair Examples
-![](examples/git_dataset.png)
+![](examples/example_training_data.png)
 
 ## Code Usage
 Usage instructions found here: [user manual page](USAGE.md).
